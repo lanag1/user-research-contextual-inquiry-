@@ -5,9 +5,9 @@ What is the main activity your project would support the users in accomplishing?
 What is the basic need involved for that activity?
 > This activity helps the user quickly and easily purchase clothes. This is a very time consuming activity although clothes are something all civilians need. This activity will hopefully decrease this time.
 What is/are the traditional/current solution(s) to satisfy the needs?
-> Currently, consumers stray away from ZARA as the mobile ap is very confusing to navigate. Most consumers opt for an easier website to navigate or for shopping in person.
+> Currently, consumers stray away from ZARA as the mobile app is very confusing to navigate. Most consumers opt for an easier website to navigate or for shopping in person.
 What is/are the limitation(s) that possibly would be improved with (digital) technology?
-> The biggest current limitation on the site is that it is not user friendly. This can easily be fixed by reorganizing the layout of the site. This can be done with the technology that was used to construct the website initially.
+> The biggest current limitation on the site is that it is not user friendly. This can easily be fixed by reorganizing the layout of the app. This can be done with the technology that was used to construct the website initially.
 ## Step02: Target users
 What are the characteristics of users? (ex. demographics, preference, expertise)
 > Demographic: Consumers looking for clothes, likely college students up to middle aged men and women.
@@ -23,6 +23,7 @@ What would the users do to complete that activity?
 >I will observe my participant in her home on her own device. I will observe her finding the women's shirt section, selecting a shirt, and looking at the various product images as well as search for a specific piece. I will be interacting with my user through overt observation and participatory interaction while recording and taking typed notes.
 > Please find the link to the interview script [here.](https://docs.google.com/document/d/1Dbk40uAnkPXrQRlIvYNv0-4ipGvOMzKsmkY0J2Q0bqE/edit?usp=sharing)
 ## Step05: Conduct the research
-Please find the transcription of the whole interview and participatory observation [here]
-Below are the recordings and videos of the interview and participatory observation.
+>Please find the transcription [here.](https://docs.google.com/document/d/1-_KRs7Aq-Pycw6x0U1n1msb6bZhH3RUvWy_xU78OCuE/edit?usp=sharing)
+>The recording of the interview can be found [here.](https://youtu.be/GhnA10fWGKs) 
 ## Reflection
+> Stepping away from the government website was definitely good to get a fresh look at UI/UX design. In this way, I was able to relate more to the user in the study as I am not very knowledged on Zara's app either. All parts of my interview went well as I was interviewing my roommate, someone who I am very confortable with, and was also using a site that I have been a user of before. This proves to be useful information as I should aim to maintain this level of comfort with all users in interviews and/or studys to get accurate results and have the users feel at ease. The. most useful part of the process was warhcing my user navigate the app with only oral direction. This allowed me to see exactly when and where there are issues with the Zara app design. The methods I used in this user research contextual inquiry proved to be useful as they provided me with the answers that I needed regarding the navigation of the Zara site.  
